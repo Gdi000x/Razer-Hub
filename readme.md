@@ -6,3 +6,6 @@ Razer Hub - Our script is quite fast, despite the fact that it is obfuscated.
 * Scripts (25):
 Admin Scripts, Animation Scripts, Dex, UNC, Executor GUI, Anti's Scripts
 * Player (2): WalkSpeed, JumpPower
+*Goal: 250*
+  *Total: 27*
+  
