@@ -1,5 +1,6 @@
 # RAZER Hub
 Razer Hub - Our script is quite fast, despite the fact that it is obfuscated.
+[Inspired Krypton](https://github.com/RENBex6969/KryptonReload/)
 ## Loading Razer-Hub
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Gdi000x/Razer-Hub/refs/heads/main/script.lua'))()
