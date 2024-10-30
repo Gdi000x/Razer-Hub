@@ -15,3 +15,10 @@ Admin Scripts, Animation Scripts, Dex, UNC, Executor GUI, Anti's Scripts
 ## Open Source
 You can view the source code of scripts up to version 1.00a. [View source code](https://github.com/Gdi000x/Razer-Hub/blob/main/source/1.0a.lua)
 ## CURRENT VERSION: v1.00a
+## *Supported Executors*
+* Xeno or JJSploit: supported
+* Codex: not tested
+* Delta: not tested
+* Arceus X: not tested
+* Scythex: not tested
+* Solara: not tested
