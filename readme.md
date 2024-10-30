@@ -1,2 +1,2 @@
-Hello! Magic is creating...
-This script was created with the help of inspiration [Krypton](https://github.com/RENBex6969/KryptonReload/)
+# RAZER Hub
+Razer Hub - Our script is quite fast, despite the fact that it is obfuscated.
