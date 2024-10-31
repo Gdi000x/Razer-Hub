@@ -7,9 +7,10 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Gdi000x/Razer-Hub/ref
 ```
 [Our website](https://gdi000x.github.io/razerhub/)
 ## Features:
-* Scripts (25):
-Admin Scripts, Animation Scripts, Dex, UNC, Executor GUI, Anti's Scripts
+* Scripts (28):
+Admin Scripts, Animation Scripts, Dex, UNC, Executor GUI, Anti's Scripts, and etc.
 * Player (2): WalkSpeed, JumpPower
+  * Avatar: Change face - 25
 *Goal: 250*
   *Total: 27*
 ## Open Source
