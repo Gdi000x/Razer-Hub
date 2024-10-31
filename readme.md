@@ -19,7 +19,7 @@ You can view the source code of scripts up to version 1.00a. [View source code](
 ## *Supported Executors*
 * Xeno or JJSploit: supported
 * Codex: supported, the interface may become distorted
-* Delta: not tested
+* Delta: supported
 * Arceus X: supported
 * Scythex: not tested
 * Solara: Testing not available.
