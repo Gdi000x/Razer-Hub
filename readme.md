@@ -11,8 +11,9 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Gdi000x/Razer-Hub/ref
 Admin Scripts, Animation Scripts, Dex, UNC, Executor GUI, Anti's Scripts, and etc.
 * Player (2): WalkSpeed, JumpPower
   * Avatar: Change face - 25
+--
 *Goal: 250*
-  *Total: 27*
+  *Total: 55*
 ## Open Source
 You can view the source code of scripts up to version 1.00a. [View source code](https://github.com/Gdi000x/Razer-Hub/blob/main/source/1.0a.lua)
 ## CURRENT VERSION: v1.01
